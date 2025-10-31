@@ -1,0 +1,21 @@
+h2{
+     width:100%;
+     margin:auto;
+     list-style-type:none;
+     text align: center;
+     color: red;
+}
+ul{
+     width:100%;
+     margin:auto;
+     list-style-type:none;
+     text align: center;
+     color: green;
+}
+ol{
+     width:100%;
+     margin:auto;
+     list-style-type:none
+     text align: center;
+     color: purple;
+}
